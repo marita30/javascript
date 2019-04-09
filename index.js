@@ -12,3 +12,8 @@ function hiTimmy() {
 	return 'Hi, Timmy!'
 	// body...
 }
+
+function hi(person) {
+	return 'Hi, ' + person + '!';
+	// body...
+}
