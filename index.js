@@ -7,3 +7,8 @@ Greeting.prototype.hello = function(person) {
 	return 'Hello, ' + person + '!'
 	// body...
 };
+
+function hiTimmy() {
+	return 'Hi, Timmy!'
+	// body...
+}
